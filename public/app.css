@@ -1,0 +1,4 @@
+document.getElementById('startButton').addEventListener('click', function() {
+    alert('Welcome to ResumeCraft! Let\'s start building your resume.');
+    // Here you can add functionality to navigate to the resume building page
+});

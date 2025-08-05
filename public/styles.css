@@ -1,0 +1,12 @@
+/* Custom styles for ResumeCraft */
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+header {
+    background-image: linear-gradient(to right, #4A90E2, #50E3C2, #9013FE);
+}
+
+button {
+    transition: background-color 0.3s ease;
+}
